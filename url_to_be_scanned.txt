@@ -1,1 +1,1 @@
-{"scope":{ "include":[{ "rule" : "https://employers.indeed.com11/" }],"type":"SimpleScope" },"urls":["https://www.skyscanner.com"]}~~1142644040
+{"scope":{ "include":[{ "rule" : "https://employers.indeed.com/" }],"type":"SimpleScope" },"urls":["https://www.skyscanner.com"]}~~1142644040
