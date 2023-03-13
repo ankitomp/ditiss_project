@@ -1,1 +1,1 @@
-{"urls":["https://www.asurascan.com"]}~~1142644040
+{"scope":{ "include":[{ "rule" : "gmail.google.com" }],"type":"SimpleScope" },"urls":["https://www.google.com"]}~~1142644040
